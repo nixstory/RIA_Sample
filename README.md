@@ -1,5 +1,6 @@
 # RIA
 
-터미널 1에서 yarn watch
+blockchain-iMac:ria taeheunlee$ yarn watch (빌드를 위하여 실행)
 
-터미널 2에서 yarn start
+blockchain-iMac:ria taeheunlee$ yarn start (톰캣 구동을 위하여 실행)
+
